@@ -6,6 +6,7 @@
 # Declare variáveis do tipo string
 
 # Declare variáveis de cada tipo numérico
-
+nome='thiago'
+print(nome)
 
 # Declare uma variável do tipo booleano

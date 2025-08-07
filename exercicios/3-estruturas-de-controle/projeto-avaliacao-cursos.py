@@ -5,3 +5,18 @@
 # 4. Crie uma estrutura condicional para verificar se cada variável está contida na lista
 # 5. Se o curso estiver na lista, solicite uma nota para avaliação
 # 6. Armazene essa nota no dicionário, sendo a chave o título do curso e o valor a nota
+
+list = ['Python', 'PowerBI', 'SQL', 'R', 'Scrum' ]
+print(list)
+print('----------------------------------')
+linguagens_de_programacao = 'Python', 'R'
+data = 'SQL'
+tool = 'PowerBi', 'Scrum'
+print()
+
+lista = { }
+
+if 'Python' está na (lista)
+
+
+

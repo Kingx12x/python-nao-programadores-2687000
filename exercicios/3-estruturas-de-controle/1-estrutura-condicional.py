@@ -1,19 +1,25 @@
-# Declare 4 variáveis do tipo numérica
+A= 33
+B= 40
+C= 66
+D= 330
+
+if A < B:
+  print(f'A condição foi atingida, pois {A}, é menor que {B}')
+
+else:
+  print(False)
+
+if A == D:
+  print(f'A condição foi cumprida. {A} é igual a {D}')
+elif A > D:
+ print(f'Nesse caso verifcamos que {A}, é maior que {D}')
 
 
-# Crie uma estrutura condicional para comparar dois números
 
+if (C > D) or (D == A):
+  print(f'A condição foi concluida pois {C}. é maior que {D}')
+elif(B > C) and (D < A):
+  print(f'A condição não foi concluida pois {B}, é menor que {C}')
+else:
+  print(f'Nenhuma das condições foram concluidas')
 
-# Se a condição for verdadeira, imprima na tela uma mensagem informando que a condição foi cumprida e informando o número de maior valor
-
-
-# Se a condição não for cumprida, imprima na tela uma mensagem informando que a condição é negativa e informe o número de maior valor
-
-
-# Insira outras condições na estrutura condicional usando o elif
-
-
-# Incremente a estrutura condicional já existente com expressões lógicas utilizando "and" ou "or"
-
-
-# Crie uma estrutura condicional onde mais de uma condição seja verdadeira, e use apenas a palavra reservada "if"
